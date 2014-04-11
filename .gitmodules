@@ -1,0 +1,4 @@
+[submodule "Dependencies/gtest"]
+	path = Dependencies/gtest
+	url = https://chromium.googlesource.com/external/googletest
+	branch = master
